@@ -1,4 +1,4 @@
-# csnakes
+# csnakes_demo
 
 A .NET 9.0 project demonstrating C#/.NET integration with Python, leveraging the incredible [CSnakes.Runtime](https://www.nuget.org/packages/CSnakes.Runtime/) runtime.
 
