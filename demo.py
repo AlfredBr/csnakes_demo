@@ -1,2 +1,3 @@
 def hello_world(name: str) -> str:
-    return f"Hello from Python, {name}!"
+    """Say hello to the world."""
+    return f"Hello from Python, {name}!\nWelcome to the demo."

@@ -26,6 +26,7 @@ dotnet run
 ## Project Structure
 - `Program.cs` - Main .NET entry point
 - `demo.py` - Python demo script
+- `calc.py` - Python module for calculations
 - `csnakes.csproj` - Project file
 
 ## Attributions
